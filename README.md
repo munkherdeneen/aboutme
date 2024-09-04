@@ -1,4 +1,4 @@
-# Hi, I'm Munkh Erdene Enkhtaivan 👋
+# Hi, I'm Munkh Enkhtaivan 👋
 
 I am a Lead DevOps and Software Engineer with over 10 years of experience in software development, automation, and system operations. I specialize in optimizing software performance, automating workflows, and driving innovation within organizations. Currently, I’m based in Dallas, Texas.
 
